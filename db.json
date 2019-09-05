@@ -1,0 +1,30 @@
+{
+  "flats": [
+    {
+      "city": "Minsk",
+      "host": {
+        "id": 1,
+        "name": "John Doe"
+      },
+      "number_of_rooms": 2,
+      "photos": [
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/196/196672354.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max1024x768/196/196675110.jpg",
+        "https://d1bvpoagx8hqbg.cloudfront.net/originals/in-center-kadikoy-cozy-apartment-3bdbabd2eb3255bc8e8840052eeb622f.jpg"
+      ]
+    },
+    {
+      "city": "Minsk",
+      "host": {
+        "id": 3,
+        "name": "Lorem Ipsum"
+      },
+      "number_of_rooms": 2,
+      "photos": [
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/196/196672354.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max1024x768/196/196675110.jpg",
+        "https://d1bvpoagx8hqbg.cloudfront.net/originals/in-center-kadikoy-cozy-apartment-3bdbabd2eb3255bc8e8840052eeb622f.jpg"
+      ]
+    }
+  ]
+}
